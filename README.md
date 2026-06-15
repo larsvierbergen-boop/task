@@ -40,7 +40,7 @@ Installeer de **Obsidian Git** plugin in Obsidian:
 ## Task syntax (Annado-compatibel)
 
 ```
-- [ ] Taak titel @when(morgen) @time(09:00) [[Project]] !(1) #tag @due(2025-03-01)
+- [x] Taak titel @time(09:00) @when(morgen) [[Project]] !(1) #tag @due(2025-03-01) @completed(2026-06-15)
 ```
 
 | Annotatie | Voorbeeld | Betekenis |
